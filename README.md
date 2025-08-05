@@ -1,4 +1,4 @@
-# AI-Powered PDF Reader for the Visually Impaired
+# AI-Powered PDF Reader
 
 An accessible, voice-assisted PDF reader powered by AI – designed to help blind and visually impaired users interact with PDF content using natural language. Developed as a university group project, this tool provides simple question-answer functionality with optional text-to-speech output and a clean web interface.
 
