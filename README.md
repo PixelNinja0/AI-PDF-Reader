@@ -37,6 +37,13 @@ An accessible, voice-assisted PDF reader powered by AI – designed to help blin
 | Templates        | Jinja2                        |
 | Environment Vars | dotenv                        |
 
+
+---
+## Demo Screenshot
+
+![Screenshot of AI PDF Reader](KI-Assistent.png)
+
+
 ---
 
 ## Test Mode: Dummy Client
