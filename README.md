@@ -4,7 +4,7 @@ An accessible, voice-assisted PDF reader powered by AI – designed to help blin
 
 ---
 
-## 🏫 University Project Overview
+## University Project Overview
 
 - Degree Program: Engineering Psychology (B.Sc.)
 - Team Size: 6 members  
