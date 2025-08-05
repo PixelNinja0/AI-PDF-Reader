@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KI-Assistent</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Frage den KI-Assistenten</h1>
+        <form action="/query" method="post">
+            <input type="text" name="query" placeholder="Frage hier eingeben">
+            <button type="submit">Fragen</button>
+        </form>
+        {% if question and answer %}
+        <div class="result">
+            <h3>Frage:</h3><p>{{ question }}</p>
+            <h3>Antwort:</h3><p>{{ answer }}</p>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

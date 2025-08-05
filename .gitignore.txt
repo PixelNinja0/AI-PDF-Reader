@@ -1,0 +1,8 @@
+docs/
+qdrant_storage/
+nltk_data/
+.idea/
+.lightning_studio/
+.vscode/
+__pycache__/
+.env
